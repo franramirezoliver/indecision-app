@@ -14,7 +14,7 @@
 import { computed, ref } from 'vue';
 
 interface Props {
-  valorem?: number;
+  valorem: number;
 }
 
 const props = defineProps<Props>();
