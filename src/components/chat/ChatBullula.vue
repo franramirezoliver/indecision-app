@@ -13,7 +13,7 @@
   </div>
 </template>
 
-<script lang="ts" setups>
+<script lang="ts" setup>
 interface Props {
   nuntius: string;
   meusEst: boolean;
